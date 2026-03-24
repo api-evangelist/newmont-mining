@@ -1,0 +1,7 @@
+aid: newmont-mining
+url: https://raw.githubusercontent.com/api-evangelist/newmont-mining/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.newmont-mining.com
