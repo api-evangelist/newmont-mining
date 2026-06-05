@@ -1,4 +1,6 @@
 aid: newmont-mining
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/newmont-mining/refs/heads/main/apis.yml
 modified: '2026-04-28'
