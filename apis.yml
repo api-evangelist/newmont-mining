@@ -1,4 +1,5 @@
 aid: newmont-mining
+name: "Newmont Mining"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
