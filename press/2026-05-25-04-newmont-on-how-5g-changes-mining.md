@@ -1,7 +1,9 @@
 ---
 title: Newmont on how 5G changes mining
 url: https://www.rcrwireless.com/20250917/private-5g/newmont-private-5g-mining
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Newmont Mining" press release artificial intelligence'
 position: 4
 source: serpapi-google

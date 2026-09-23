@@ -1,7 +1,9 @@
 ---
 title: Newmont Corporation
 url: https://www.facebook.com/NewmontCorporation/posts/we-have-a-long-history-of-leadership-in-environmental-social-and-governance-esg-/787103076777124/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Newmont Mining" press release artificial intelligence'
 position: 5
 source: serpapi-google
